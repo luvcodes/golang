@@ -11,5 +11,5 @@
 3. 定义全局变量
 
 #### strings
-
 #### variables type transformation - 基本数据类型相互转换
+#### **Pointer** 
